@@ -2,22 +2,22 @@
 <menu xmlns:android = "http://schemas.android.com/apk/res/android">
   <item
       android:id = "@+id/file_settings"
-      android:icon = "@draweable/abc_ic_star_black_16dp"
+      android:icon = "@draweable/purpleFace"
       android:title = "Settings"
       android:showAsAction = "ifRoom">
        <item
          android:id = "@+id/new_game1"
-         android:icon = "@drawable/abc_ic_menu_copy_mtrl_am_alpha"
+         android:icon = "@drawable/catTie"
          android:title = "New File Settings"
          android:showAsAction = "ifRoom"/>
       <item
          android:id = "@+id/help"
-         android:icon = "@drawable/abc_edit_text_material"
+         android:icon = "@drawable/greenHarp"
          android:title = "Help" 
          android:showAsAction = "ifRoom"/>
       <item
          android:id = "@+id/about_app"
-         android:icon = "@drawable/abc_ic_star_black_16dp"
+         android:icon = "@drawable/redHarp"
          android:title = "About app"
          android:showAsAction = "never"/>
   </item>
