@@ -2227,26 +2227,26 @@ namespace NavApp1
 			// aapt resource value: 0x7f020053
 			public const int avd_hide_password = 2130837587;
 			
-			// aapt resource value: 0x7f02006c
-			public const int avd_hide_password_1 = 2130837612;
-			
 			// aapt resource value: 0x7f02006d
-			public const int avd_hide_password_2 = 2130837613;
+			public const int avd_hide_password_1 = 2130837613;
 			
 			// aapt resource value: 0x7f02006e
-			public const int avd_hide_password_3 = 2130837614;
+			public const int avd_hide_password_2 = 2130837614;
+			
+			// aapt resource value: 0x7f02006f
+			public const int avd_hide_password_3 = 2130837615;
 			
 			// aapt resource value: 0x7f020054
 			public const int avd_show_password = 2130837588;
 			
-			// aapt resource value: 0x7f02006f
-			public const int avd_show_password_1 = 2130837615;
-			
 			// aapt resource value: 0x7f020070
-			public const int avd_show_password_2 = 2130837616;
+			public const int avd_show_password_1 = 2130837616;
 			
 			// aapt resource value: 0x7f020071
-			public const int avd_show_password_3 = 2130837617;
+			public const int avd_show_password_2 = 2130837617;
+			
+			// aapt resource value: 0x7f020072
+			public const int avd_show_password_3 = 2130837618;
 			
 			// aapt resource value: 0x7f020055
 			public const int babySkunk = 2130837589;
@@ -2299,11 +2299,11 @@ namespace NavApp1
 			// aapt resource value: 0x7f020065
 			public const int notification_icon_background = 2130837605;
 			
-			// aapt resource value: 0x7f02006a
-			public const int notification_template_icon_bg = 2130837610;
-			
 			// aapt resource value: 0x7f02006b
-			public const int notification_template_icon_low_bg = 2130837611;
+			public const int notification_template_icon_bg = 2130837611;
+			
+			// aapt resource value: 0x7f02006c
+			public const int notification_template_icon_low_bg = 2130837612;
 			
 			// aapt resource value: 0x7f020066
 			public const int notification_tile_bg = 2130837606;
@@ -2316,6 +2316,9 @@ namespace NavApp1
 			
 			// aapt resource value: 0x7f020069
 			public const int tooltip_frame_light = 2130837609;
+			
+			// aapt resource value: 0x7f02006a
+			public const int turtleAndSkunk = 2130837610;
 			
 			static Drawable()
 			{
@@ -2347,6 +2350,9 @@ namespace NavApp1
 			
 			// aapt resource value: 0x7f080037
 			public const int SYM = 2131230775;
+			
+			// aapt resource value: 0x7f0800ba
+			public const int about_app = 2131230906;
 			
 			// aapt resource value: 0x7f0800a1
 			public const int action0 = 2131230881;
@@ -2552,6 +2558,9 @@ namespace NavApp1
 			// aapt resource value: 0x7f08000a
 			public const int ghost_view = 2131230730;
 			
+			// aapt resource value: 0x7f0800b9
+			public const int help = 2131230905;
+			
 			// aapt resource value: 0x7f080005
 			public const int home = 2131230725;
 			
@@ -2573,8 +2582,11 @@ namespace NavApp1
 			// aapt resource value: 0x7f08008f
 			public const int imageBunny = 2131230863;
 			
-			// aapt resource value: 0x7f0800b2
-			public const int imageSkunk = 2131230898;
+			// aapt resource value: 0x7f0800b3
+			public const int imageSkunk = 2131230899;
+			
+			// aapt resource value: 0x7f0800b4
+			public const int imageTurtleAndSkunk = 2131230900;
 			
 			// aapt resource value: 0x7f0800ab
 			public const int info = 2131230891;
@@ -2603,14 +2615,14 @@ namespace NavApp1
 			// aapt resource value: 0x7f080061
 			public const int list_item = 2131230817;
 			
-			// aapt resource value: 0x7f0800b5
-			public const int masked = 2131230901;
+			// aapt resource value: 0x7f0800b7
+			public const int masked = 2131230903;
 			
 			// aapt resource value: 0x7f0800a4
 			public const int media_actions = 2131230884;
 			
-			// aapt resource value: 0x7f0800b3
-			public const int message = 2131230899;
+			// aapt resource value: 0x7f0800b5
+			public const int message = 2131230901;
 			
 			// aapt resource value: 0x7f080031
 			public const int middle = 2131230769;
@@ -2621,11 +2633,17 @@ namespace NavApp1
 			// aapt resource value: 0x7f080028
 			public const int multiply = 2131230760;
 			
+			// aapt resource value: 0x7f0800b1
+			public const int my_toolbar = 2131230897;
+			
 			// aapt resource value: 0x7f080098
 			public const int navigation_header_container = 2131230872;
 			
 			// aapt resource value: 0x7f08003b
 			public const int never = 2131230779;
+			
+			// aapt resource value: 0x7f0800b8
+			public const int new_game1 = 2131230904;
 			
 			// aapt resource value: 0x7f080022
 			public const int none = 2131230754;
@@ -2801,8 +2819,8 @@ namespace NavApp1
 			// aapt resource value: 0x7f08008e
 			public const int textBunny2 = 2131230862;
 			
-			// aapt resource value: 0x7f0800b1
-			public const int textSkunk = 2131230897;
+			// aapt resource value: 0x7f0800b2
+			public const int textSkunk = 2131230898;
 			
 			// aapt resource value: 0x7f08006a
 			public const int textSpacerNoButtons = 2131230826;
@@ -2867,8 +2885,8 @@ namespace NavApp1
 			// aapt resource value: 0x7f080016
 			public const int view_offset_helper = 2131230742;
 			
-			// aapt resource value: 0x7f0800b4
-			public const int visible = 2131230900;
+			// aapt resource value: 0x7f0800b6
+			public const int visible = 2131230902;
 			
 			// aapt resource value: 0x7f08003c
 			public const int withText = 2131230780;
@@ -3127,6 +3145,22 @@ namespace NavApp1
 			}
 			
 			private Layout()
+			{
+			}
+		}
+		
+		public partial class Menu
+		{
+			
+			// aapt resource value: 0x7f0e0000
+			public const int dropDownMenu = 2131623936;
+			
+			static Menu()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Menu()
 			{
 			}
 		}

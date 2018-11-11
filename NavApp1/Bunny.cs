@@ -13,7 +13,7 @@ using Android.Widget;
 
 namespace NavApp1
 {
-    [Activity(Label = "@string/viewBunny", Theme = "@style/AppTheme", MainLauncher = false)]
+    [Activity(Label = "@string/app_name", Theme = "@style/AppTheme", MainLauncher = false)]
     public class Bunny : AppCompatActivity
     {
         protected override void OnCreate(Bundle savedInstanceState)

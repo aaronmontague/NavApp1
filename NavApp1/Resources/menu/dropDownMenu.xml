@@ -1,0 +1,24 @@
+﻿<?xml version = "1.0" encoding="utf-8"?>
+<menu xmlns:android = "http://schemas.android.com/apk/res/android">
+  <item
+      android:id = "@+id/file_settings"
+      android:icon = "@draweable/abc_ic_star_black_16dp"
+      android:title = "Settings"
+      android:showAsAction = "ifRoom">
+       <item
+         android:id = "@+id/new_game1"
+         android:icon = "@drawable/abc_ic_menu_copy_mtrl_am_alpha"
+         android:title = "New File Settings"
+         android:showAsAction = "ifRoom"/>
+      <item
+         android:id = "@+id/help"
+         android:icon = "@drawable/abc_edit_text_material"
+         android:title = "Help" 
+         android:showAsAction = "ifRoom"/>
+      <item
+         android:id = "@+id/about_app"
+         android:icon = "@drawable/abc_ic_star_black_16dp"
+         android:title = "About app"
+         android:showAsAction = "never"/>
+  </item>
+</menu>
